@@ -10,7 +10,7 @@
  
 
 📫 **Let's connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliane-blue?logo=linkedin)](www.linkedin.com/in/juliane-beda-araújo-5098a5257)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliane-blue?logo=linkedin)](https://www.linkedin.com/in/juliane-beda-ara%C3%BAjo-5098a5257/)  
 
 
 <!--
