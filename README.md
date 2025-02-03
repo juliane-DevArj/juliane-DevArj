@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juliane! 
+# 👋 Hi there, I'm Juliane!
 
 💻 Passionate about technology and coding, with experience in **Python, PHP, JavaScript, and web development**.  
 🚀 Always learning and building projects to improve my skills and solve real-world problems.  
